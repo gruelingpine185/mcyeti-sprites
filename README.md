@@ -4,10 +4,12 @@
 
 ![Spritesheet](./spritesheet.png)
 
-- Dimensions: 1440x320
+- Dimensions: 144x32
 - Sprite size: 16x32
 
 ## Animations
+
+- Made at 6fps.
 
 ### Idle
 
@@ -16,5 +18,5 @@
 
 ### Walking
 
-- Frames [4, infty)
-- Animation direction: Ping-pong
+- Frames [4, 10)
+- Animation direction: Forwards 
