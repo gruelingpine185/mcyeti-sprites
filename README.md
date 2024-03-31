@@ -1,4 +1,4 @@
-# [Ycraft](https://github.com/yeti0904/MCYeti) Sprites
+# Ycraft Sprites
 
 ## Sprite sheet
 
