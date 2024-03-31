@@ -1,26 +1,17 @@
-# Sprites
+# [MCYeti](https://github.com/yeti0904/MCYeti) Sprites
 
-## Spritesheet
+## Sprite sheet
 
-![Spritesheet](./spritesheet.png)
-
-- Dimensions: 160x32
-- Sprite size: 16x32
+| Dimensions (px) | Dimensions (frames) | Sprite size (px) | Actual size (px) |  Preview |
+| --------------- | ------------------- | ---------------- | ---------------- | -------- |
+| 160x32 | 10x1 | 16x32 | 12x22 | ![Spritesheet](./spritesheet.png) |
 
 ## Animations
 
-- Made at 6fps.
+### Actor Animations
 
-### Idle
-
-![Idle Animation](./assets/player_idle.gif)
-
-- Frames: [1, 4]
-- Animation direction: Forwards
-
-### Walking
-
-![Walk Animation](./assets/player_walk.gif)
-
-- Frames [4, 11)
-- Animation direction: Forwards 
+| Animation | Description | Direction | Frames  | Preview | Status |
+| --------- | ----------- | --------- | ------- | ------- | ------ |
+| Idle | Oscillates vertically with arms at rest | Forwards | [1, 4] | ![player_idle](https://github.com/gruelingpine185/mcyeti-sprites/assets/66073333/a8169353-46fb-4eb6-b0c6-0b6d9554b3c5) | Done |
+| Walk | Forward walk cycle with empty swaying arms | Forwards  | [4, 11) | ![player_walk](https://github.com/gruelingpine185/mcyeti-sprites/assets/66073333/2c31f193-7c28-4677-a78d-01b389b79e79) | Done |
+| Place | Thrust hand outwards from rest | | | | Todo |
